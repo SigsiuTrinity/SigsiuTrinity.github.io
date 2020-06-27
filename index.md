@@ -9,5 +9,7 @@ Freya ist mein Basset Hound. Sie ist jetzt 11 Monate alt und wiegt inzwischen 25
 * liebt counter surving
 * ist eine couch potato
 
+## Freyas Lieblingszitat
 
+> Wuff wuff heul heuuuuuul wuff!
 
